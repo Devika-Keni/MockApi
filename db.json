@@ -1,11 +1,1 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"status":"Success","Message":"Record Found ","Data":[{"Certification_Code":"PERM","Certification":"Perm/Prof/SOCE"},{"Certification_Code":"PROV","Certification":"Prov/Initial/Cond Prov/Cond Initial"},{"Certification_Code":"CQ","Certification":"CQ/Transitional"},{"Certification_Code":"APP","Certification":"Applied For / Pending"},{"Certification_Code":"ELG","Certification":"Will Be Eligible"},{"Certification_Code":"OOS","Certification":"Out of State"},{"Certification_Code":"None","Certification":"(None)"}]}
