@@ -23,8 +23,8 @@
 
 
     {
-      "Job_Vacancy": "",
-      "Job_Number": "",
+      "Job_Vacancy": null,
+      "Job_Number": null,
       "Email_Subject": "Job Posting 321: District sales",
       "From_Address": "vishwas@wmail.com",
       "Recipient_Type": "multiple",
