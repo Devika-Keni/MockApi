@@ -15,7 +15,7 @@
       "Send_Date": "2017-12-30T12:51:26.317",
       "Message": "This is to inform you that we have received your application for Challenge Course Facilitator ",
       "RecipeintList": null,
-      "ReasonForfailure": "Some reason for failure"
+      "ReasonForFailure": "Some reason for failure"
 
     },
 
@@ -67,7 +67,7 @@
         }
 
       ],
-      "ReasonForfailure": null
+      "ReasonForFailure": null
 
 
     },
@@ -120,7 +120,7 @@
         }
 
       ],
-      "ReasonForfailure": null
+      "ReasonForFailure": null
 
     },
 
@@ -139,7 +139,7 @@
       "Send_Date": "2012-08-10T12:51:26.317",
       "Message": "This is to inform you that we have received your application for Harrison Paid Internship ",
       "RecipientList": null,
-      "ReasonForfailure": null
+      "ReasonForFailure": null
 
     },
 
@@ -158,7 +158,7 @@
       "Send_Date": "2011-08-15T12:51:26.317",
       "Message": "This is to inform you that we have received your application for IT/ Leadership Manager ",
       "RecipientList": null,
-      "ReasonForfailure": null
+      "ReasonForFailure": null
 
     },
 
@@ -178,7 +178,7 @@
       "Send_Date": "2014-15-23T12:51:26.317",
       "Message": "This is to inform you that we have received your application for Kettonwa Internship ",
       "RecipientList": null,
-      "ReasonForfailure": null
+      "ReasonForFailure": null
 
     }
   ]
