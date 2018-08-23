@@ -118,7 +118,7 @@
           "LastName": "Zeilinski",
           "DeliveryStatus": "Failure",
           "RecipeintEmail": "sheila.zeilinski@wmail.com",
-          "FailureReason": null
+          "FailureReason": "Failed due to some reason"
         },
 
         {
@@ -127,7 +127,7 @@
           "LastName": "Zeilinski",
           "DeliveryStatus": "Failure",
           "RecipeintEmail": "sheila.zeilinski@wmail.com",
-          "FailureReason": null
+          "FailureReason": "Reason unknown"
         }
 
       ],
