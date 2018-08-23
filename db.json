@@ -39,6 +39,7 @@
           "FirstName": "Sheila",
           "LastName": "Zeilinski",
           "DeliveryStatus": "Success",
+         "RecipeintEmail": "sheila.zeilinski@wmail.com",
           "FailureReason": null
         },
 
@@ -47,7 +48,9 @@
           "FirstName": "Sheila",
           "LastName": "Zeilinski",
           "DeliveryStatus": "Faiilure",
+          "RecipeintEmail": "sheila.zeilinski@wmail.com",
           "FailureReason": "Some Reason for Failure"
+          
         },
 
         {
@@ -55,6 +58,7 @@
           "FirstName": "Sheila",
           "LastName": "Zeilinski",
           "DeliveryStatus": "Success",
+          "RecipeintEmail": "sheila.zeilinski@wmail.com",
           "FailureReason": null
         },
 
@@ -63,6 +67,7 @@
           "FirstName": "Sheila",
           "LastName": "Zeilinski",
           "DeliveryStatus": "Success",
+          "RecipeintEmail": "sheila.zeilinski@wmail.com",
           "FailureReason": null
         }
 
@@ -92,6 +97,7 @@
           "FirstName": "Sheila",
           "LastName": "Zeilinski",
           "DeliveryStatus": "Success",
+          "RecipeintEmail": "sheila.zeilinski@wmail.com",
           "FailureReason": null
         },
 
@@ -100,6 +106,7 @@
           "FirstName": "Sheila",
           "LastName": "Zeilinski",
           "DeliveryStatus": "Success",
+          "RecipeintEmail": "sheila.zeilinski@wmail.com",
           "FailureReason": null
         },
 
@@ -108,6 +115,7 @@
           "FirstName": "Sheila",
           "LastName": "Zeilinski",
           "DeliveryStatus": "Success",
+          "RecipeintEmail": "sheila.zeilinski@wmail.com",
           "FailureReason": null
         },
 
@@ -116,6 +124,7 @@
           "FirstName": "Sheila",
           "LastName": "Zeilinski",
           "DeliveryStatus": "Success",
+          "RecipeintEmail": "sheila.zeilinski@wmail.com",
           "FailureReason": null
         }
 
