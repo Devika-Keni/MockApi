@@ -49,7 +49,7 @@
           "Number": 2,
           "FirstName": "Sheila1",
           "LastName": "Zeilinski",
-          "DeliveryStatus": "Faiilure",
+          "DeliveryStatus": "Failure",
           "RecipeintEmail": "sheila.zeilinski@wmail.com",
           "FailureReason": "Some Reason for Failure"
           
@@ -116,7 +116,7 @@
           "Number": 3,
           "FirstName": "Sheila",
           "LastName": "Zeilinski",
-          "DeliveryStatus": "Success",
+          "DeliveryStatus": "Failure",
           "RecipeintEmail": "sheila.zeilinski@wmail.com",
           "FailureReason": null
         },
@@ -125,7 +125,7 @@
           "Number": 4,
           "FirstName": "Sheila",
           "LastName": "Zeilinski",
-          "DeliveryStatus": "Success",
+          "DeliveryStatus": "Failure",
           "RecipeintEmail": "sheila.zeilinski@wmail.com",
           "FailureReason": null
         }
